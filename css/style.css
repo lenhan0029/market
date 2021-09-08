@@ -1,0 +1,237 @@
+a{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+/* menu */
+.nav-item{
+    margin-left: 50px;
+}
+.nav-item:first-child{
+    margin-right: 50px;
+}
+#customer-nav{
+    margin-left: 550px;
+}
+#customer-nav .nav-item:first-child{
+    margin-right: 0px;
+}
+#btn-login{
+    margin-left: 300px;
+}
+/* login-form */
+#login-form{
+    width: 300px;
+    height: 300px;
+    border: solid 1px #000;
+    margin-top: 25vh;
+    margin-left: 40vw;
+}
+#login-form input{
+    width: 90% !important;
+    margin-left: 5% !important;
+}
+#login-form label{
+    margin-left: 5% !important;
+}
+#login-form button{
+    margin-left: 5% !important;
+}
+#login-form h2{
+    margin-left: 5% !important;
+}
+/* register-form */
+
+#register-form{
+    width: 300px;
+    height: 450px;
+    border: solid 1px #000;
+    margin-top: 25vh;
+    margin-left: 40vw;
+}
+#register-form input{
+    width: 90% !important;
+    margin-left: 5% !important;
+}
+#register-form label{
+    margin-left: 5% !important;
+}
+#register-form button{
+    margin-left: 5% !important;
+}
+#register-form h2{
+    margin-left: 5% !important;
+}
+/* vegetable */
+.filter{
+    float: left;
+    width: 20%;
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+.filter-item{
+    margin: 10px;
+}
+.filter button{
+    margin-top: 30px;
+}
+.contain{
+    width: 80%;
+    height: fit-content;
+    float: left;
+}
+.contain h1{
+    margin-left: 20%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.item{
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin: 10px;
+}
+.image-item{
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+.name-item{
+    display: inline;
+    margin: 10px 0px;
+}
+.price-item{
+    margin: 10px 5px;
+    display: inline;
+    background-color: rgb(252, 193, 33);
+    border-radius: 5px;
+    padding: 2px;
+    color: aliceblue;
+}
+.contain button{
+    width: 60px;
+    height: 40px;
+    display: block;
+    background-color: rgb(209, 22, 22);
+    border-radius: 5px;
+    color: aliceblue;
+    border: none;
+    margin-top: 20px;
+}
+/* cart */
+.cart-contain{
+    width: 80%;
+    height: fit-content;
+    margin-left: 10%;
+    border: #000 solid 1px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 10px 10px 5px #000;
+}
+.cart-contain h2{
+    margin: 50px 50%;
+}
+.table{
+    width: 70% !important;
+    height: fit-content;
+    margin-left: 10%;
+}
+.table img{
+    width: 200px;
+    height: 200px;
+}
+.order-btn{
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/* history */
+.history{
+    width: 90% !important;
+}
+.history a{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+/* category */
+.cateform{
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 50px;
+}
+.cateform label{
+    margin: 10px;
+    display: block;
+}
+.cateform input{
+    margin: 10px;
+}
+.cateform button{
+    display: block;
+    margin: 10px;
+}
+#cateinfo{
+    width: 65% !important;
+    margin-top: 50px;
+}
+#cateinfo h2{
+    margin-left: 10%;
+}
+/* vegetable */
+#addvege-form{
+    width: 70%;
+    height: 500px;
+    margin: 50px 15%;
+    border: #000 solid 1px;
+}
+#addvege-form label{
+    margin: 10px 30px;
+}
+
+#addvege-form .form-item{
+    float: left;
+}
+#addvege-form button{
+    margin-top: 150px;
+}
+#vegename{
+    width: 600px;
+    margin: 10px 30px;
+}
+#catename1{
+    width: 300px;
+    margin: 10px 30px;
+}
+#unit{
+    width: 270px;
+    margin: 10px 30px;
+}
+#amount1{
+    width: 270px;
+    margin: 10px 30px;
+}
+#price1{
+    width: 300px;
+    margin: 10px 30px;
+}
+#image1{
+    width: 400px;
+    margin: 10px 30px;
+}
+/* home */
+#home-image{
+    width: 50%;
+    height: 700px;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+#home-image img{
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    float: left;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px #000;
+}
